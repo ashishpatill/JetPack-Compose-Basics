@@ -6,5 +6,5 @@
 - Text and Image Modifiers
 - How to import Image resource using drawable
 - Text Alignment
-- Scaling, cropping Image content according to device width
+- Scaling, cropping Image content according to device width, height
 - Box layout 
