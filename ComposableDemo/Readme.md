@@ -1,5 +1,8 @@
-#Text And Image Basics
-##Features
+
+# Text And Image Basics
+
+## Features
+
 - Text and Image Modifiers
 - How to import Image resource using drawable
 - Text Alignment
